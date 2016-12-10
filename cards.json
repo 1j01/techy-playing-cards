@@ -11,63 +11,63 @@
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 2,
-			"rank_name": 2,
+			"rank_name": "two",
 			"value": 2
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 3,
-			"rank_name": 3,
+			"rank_name": "three",
 			"value": 3
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 4,
-			"rank_name": 4,
+			"rank_name": "four",
 			"value": 4
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 5,
-			"rank_name": 5,
+			"rank_name": "five",
 			"value": 5
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 6,
-			"rank_name": 6,
+			"rank_name": "six",
 			"value": 6
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 7,
-			"rank_name": 7,
+			"rank_name": "seven",
 			"value": 7
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 8,
-			"rank_name": 8,
+			"rank_name": "eight",
 			"value": 8
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 9,
-			"rank_name": 9,
+			"rank_name": "nine",
 			"value": 9
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 10,
-			"rank_name": 10,
+			"rank_name": "ten",
 			"value": 10
 		},
 		{
@@ -102,63 +102,63 @@
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 2,
-			"rank_name": 2,
+			"rank_name": "two",
 			"value": 2
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 3,
-			"rank_name": 3,
+			"rank_name": "three",
 			"value": 3
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 4,
-			"rank_name": 4,
+			"rank_name": "four",
 			"value": 4
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 5,
-			"rank_name": 5,
+			"rank_name": "five",
 			"value": 5
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 6,
-			"rank_name": 6,
+			"rank_name": "six",
 			"value": 6
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 7,
-			"rank_name": 7,
+			"rank_name": "seven",
 			"value": 7
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 8,
-			"rank_name": 8,
+			"rank_name": "eight",
 			"value": 8
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 9,
-			"rank_name": 9,
+			"rank_name": "nine",
 			"value": 9
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 10,
-			"rank_name": 10,
+			"rank_name": "ten",
 			"value": 10
 		},
 		{
@@ -193,63 +193,63 @@
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 2,
-			"rank_name": 2,
+			"rank_name": "two",
 			"value": 2
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 3,
-			"rank_name": 3,
+			"rank_name": "three",
 			"value": 3
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 4,
-			"rank_name": 4,
+			"rank_name": "four",
 			"value": 4
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 5,
-			"rank_name": 5,
+			"rank_name": "five",
 			"value": 5
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 6,
-			"rank_name": 6,
+			"rank_name": "six",
 			"value": 6
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 7,
-			"rank_name": 7,
+			"rank_name": "seven",
 			"value": 7
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 8,
-			"rank_name": 8,
+			"rank_name": "eight",
 			"value": 8
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 9,
-			"rank_name": 9,
+			"rank_name": "nine",
 			"value": 9
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 10,
-			"rank_name": 10,
+			"rank_name": "ten",
 			"value": 10
 		},
 		{
@@ -284,63 +284,63 @@
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 2,
-			"rank_name": 2,
+			"rank_name": "two",
 			"value": 2
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 3,
-			"rank_name": 3,
+			"rank_name": "three",
 			"value": 3
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 4,
-			"rank_name": 4,
+			"rank_name": "four",
 			"value": 4
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 5,
-			"rank_name": 5,
+			"rank_name": "five",
 			"value": 5
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 6,
-			"rank_name": 6,
+			"rank_name": "six",
 			"value": 6
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 7,
-			"rank_name": 7,
+			"rank_name": "seven",
 			"value": 7
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 8,
-			"rank_name": 8,
+			"rank_name": "eight",
 			"value": 8
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 9,
-			"rank_name": 9,
+			"rank_name": "nine",
 			"value": 9
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 10,
-			"rank_name": 10,
+			"rank_name": "ten",
 			"value": 10
 		},
 		{
@@ -405,63 +405,63 @@
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 2,
-			"rank_name": 2,
+			"rank_name": "two",
 			"value": 2
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 3,
-			"rank_name": 3,
+			"rank_name": "three",
 			"value": 3
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 4,
-			"rank_name": 4,
+			"rank_name": "four",
 			"value": 4
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 5,
-			"rank_name": 5,
+			"rank_name": "five",
 			"value": 5
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 6,
-			"rank_name": 6,
+			"rank_name": "six",
 			"value": 6
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 7,
-			"rank_name": 7,
+			"rank_name": "seven",
 			"value": 7
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 8,
-			"rank_name": 8,
+			"rank_name": "eight",
 			"value": 8
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 9,
-			"rank_name": 9,
+			"rank_name": "nine",
 			"value": 9
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 10,
-			"rank_name": 10,
+			"rank_name": "ten",
 			"value": 10
 		},
 		{
@@ -496,63 +496,63 @@
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 2,
-			"rank_name": 2,
+			"rank_name": "two",
 			"value": 2
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 3,
-			"rank_name": 3,
+			"rank_name": "three",
 			"value": 3
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 4,
-			"rank_name": 4,
+			"rank_name": "four",
 			"value": 4
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 5,
-			"rank_name": 5,
+			"rank_name": "five",
 			"value": 5
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 6,
-			"rank_name": 6,
+			"rank_name": "six",
 			"value": 6
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 7,
-			"rank_name": 7,
+			"rank_name": "seven",
 			"value": 7
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 8,
-			"rank_name": 8,
+			"rank_name": "eight",
 			"value": 8
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 9,
-			"rank_name": 9,
+			"rank_name": "nine",
 			"value": 9
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 10,
-			"rank_name": 10,
+			"rank_name": "ten",
 			"value": 10
 		},
 		{
@@ -587,63 +587,63 @@
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 2,
-			"rank_name": 2,
+			"rank_name": "two",
 			"value": 2
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 3,
-			"rank_name": 3,
+			"rank_name": "three",
 			"value": 3
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 4,
-			"rank_name": 4,
+			"rank_name": "four",
 			"value": 4
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 5,
-			"rank_name": 5,
+			"rank_name": "five",
 			"value": 5
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 6,
-			"rank_name": 6,
+			"rank_name": "six",
 			"value": 6
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 7,
-			"rank_name": 7,
+			"rank_name": "seven",
 			"value": 7
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 8,
-			"rank_name": 8,
+			"rank_name": "eight",
 			"value": 8
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 9,
-			"rank_name": 9,
+			"rank_name": "nine",
 			"value": 9
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 10,
-			"rank_name": 10,
+			"rank_name": "ten",
 			"value": 10
 		},
 		{
@@ -678,63 +678,63 @@
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 2,
-			"rank_name": 2,
+			"rank_name": "two",
 			"value": 2
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 3,
-			"rank_name": 3,
+			"rank_name": "three",
 			"value": 3
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 4,
-			"rank_name": 4,
+			"rank_name": "four",
 			"value": 4
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 5,
-			"rank_name": 5,
+			"rank_name": "five",
 			"value": 5
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 6,
-			"rank_name": 6,
+			"rank_name": "six",
 			"value": 6
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 7,
-			"rank_name": 7,
+			"rank_name": "seven",
 			"value": 7
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 8,
-			"rank_name": 8,
+			"rank_name": "eight",
 			"value": 8
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 9,
-			"rank_name": 9,
+			"rank_name": "nine",
 			"value": 9
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 10,
-			"rank_name": 10,
+			"rank_name": "ten",
 			"value": 10
 		},
 		{
@@ -799,63 +799,63 @@
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 2,
-			"rank_name": 2,
+			"rank_name": "two",
 			"value": 2
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 3,
-			"rank_name": 3,
+			"rank_name": "three",
 			"value": 3
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 4,
-			"rank_name": 4,
+			"rank_name": "four",
 			"value": 4
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 5,
-			"rank_name": 5,
+			"rank_name": "five",
 			"value": 5
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 6,
-			"rank_name": 6,
+			"rank_name": "six",
 			"value": 6
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 7,
-			"rank_name": 7,
+			"rank_name": "seven",
 			"value": 7
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 8,
-			"rank_name": 8,
+			"rank_name": "eight",
 			"value": 8
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 9,
-			"rank_name": 9,
+			"rank_name": "nine",
 			"value": 9
 		},
 		{
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": 10,
-			"rank_name": 10,
+			"rank_name": "ten",
 			"value": 10
 		},
 		{
@@ -890,63 +890,63 @@
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 2,
-			"rank_name": 2,
+			"rank_name": "two",
 			"value": 2
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 3,
-			"rank_name": 3,
+			"rank_name": "three",
 			"value": 3
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 4,
-			"rank_name": 4,
+			"rank_name": "four",
 			"value": 4
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 5,
-			"rank_name": 5,
+			"rank_name": "five",
 			"value": 5
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 6,
-			"rank_name": 6,
+			"rank_name": "six",
 			"value": 6
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 7,
-			"rank_name": 7,
+			"rank_name": "seven",
 			"value": 7
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 8,
-			"rank_name": 8,
+			"rank_name": "eight",
 			"value": 8
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 9,
-			"rank_name": 9,
+			"rank_name": "nine",
 			"value": 9
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": 10,
-			"rank_name": 10,
+			"rank_name": "ten",
 			"value": 10
 		},
 		{
@@ -981,63 +981,63 @@
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 2,
-			"rank_name": 2,
+			"rank_name": "two",
 			"value": 2
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 3,
-			"rank_name": 3,
+			"rank_name": "three",
 			"value": 3
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 4,
-			"rank_name": 4,
+			"rank_name": "four",
 			"value": 4
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 5,
-			"rank_name": 5,
+			"rank_name": "five",
 			"value": 5
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 6,
-			"rank_name": 6,
+			"rank_name": "six",
 			"value": 6
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 7,
-			"rank_name": 7,
+			"rank_name": "seven",
 			"value": 7
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 8,
-			"rank_name": 8,
+			"rank_name": "eight",
 			"value": 8
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 9,
-			"rank_name": 9,
+			"rank_name": "nine",
 			"value": 9
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": 10,
-			"rank_name": 10,
+			"rank_name": "ten",
 			"value": 10
 		},
 		{
@@ -1072,63 +1072,63 @@
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 2,
-			"rank_name": 2,
+			"rank_name": "two",
 			"value": 2
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 3,
-			"rank_name": 3,
+			"rank_name": "three",
 			"value": 3
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 4,
-			"rank_name": 4,
+			"rank_name": "four",
 			"value": 4
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 5,
-			"rank_name": 5,
+			"rank_name": "five",
 			"value": 5
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 6,
-			"rank_name": 6,
+			"rank_name": "six",
 			"value": 6
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 7,
-			"rank_name": 7,
+			"rank_name": "seven",
 			"value": 7
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 8,
-			"rank_name": 8,
+			"rank_name": "eight",
 			"value": 8
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 9,
-			"rank_name": 9,
+			"rank_name": "nine",
 			"value": 9
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": 10,
-			"rank_name": 10,
+			"rank_name": "ten",
 			"value": 10
 		},
 		{

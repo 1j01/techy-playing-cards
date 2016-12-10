@@ -4,7 +4,7 @@ fs = require("fs")
 suits = ['♣️', '♦️', '♥️', '♠️']
 suit_names = ['club', 'diamond', 'heart', 'spade']
 ranks = ['A', 2, 3, 4, 5, 6, 7, 8, 9, 10, 'J', 'Q', 'K']
-rank_names = ['ace', 2, 3, 4, 5, 6, 7, 8, 9, 10, 'jack', 'queen', 'king']
+rank_names = ['ace', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten', 'jack', 'queen', 'king']
 
 card_sets = {}
 
