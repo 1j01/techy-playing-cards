@@ -19,13 +19,34 @@ render_$card = ({back, suit, suit_name, rank, rank_name, value})->
 			<div class='header'>
 				<span class='name'>#{suit} #{rank}</span>
 			</div>
-			<div class='center'>
-				#{(suit for [0...value]).join(", ")}
-			</div>
+			<div class='center'></div>
 			<div class='header bottom'>
 				<span class='name'>#{suit} #{rank}</span>
 			</div>
 		"""
+		
+		rows = []
+		for div in [3..1]
+			if (value / div) is (value // div)
+				break
+		if div is 1
+			div = 3
+		# console.log value, div
+		# for i in [1..div]
+		added = 0
+		while added < value
+			if added + div > value
+				n = value - added
+				# TODO: place in middle sometimes
+			else
+				n = div
+			added += div
+			# rows.push((suit for [1..n]).join(", "))
+			# rows.push((suit for [1..n]).join(", ") + if added is value then "" else ", ")
+			row = (suit for [1..n]).join(", ")
+			$card.find(".center").prepend($("<div class='suit-row'>").text(row))
+		# for row in rows
+		# 	$card.find(".center").append($("<div>").text(row))
 	
 	$card
 

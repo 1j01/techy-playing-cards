@@ -11,7 +11,8 @@
 	text-align: left;
 	font-size: 20pt;
 	/* TODO: look at fonts and pick one  */
-	font-family: 'Bitstream Charter', 'URW Palladio L', Palatino, 'Palatino Linotype', 'Hoefler Text', Georgia, 'Book Antiqua', Times, 'Times New Roman', serif;
+	/*font-family: 'Bitstream Charter', 'URW Palladio L', Palatino, 'Palatino Linotype', 'Hoefler Text', Georgia, 'Book Antiqua', Times, 'Times New Roman', serif;*/
+	font-family: monospace;
 	border-radius: 0.1in;
 	/*border: 0.1in solid white;*/
 	border: 5px solid white;
@@ -61,31 +62,38 @@
 .center {
 	flex: 1;
 	
-	/* TODO: have suits lined up in neat rows and (where possible) columns */
-	/* TODO: clean up */
-	width: 70%;
-	min-width: 0%;
 	display: flex;
-	overflow: hidden;
-	flex-wrap: wrap;
-	word-wrap: break-word;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 	align-content: center;
 	align-self: center;
-	text-align: center;
 	
 	font-family: monospace;
 }
 .center::before {
 	content: "{";
+	/*position: relative;*/
+	/*right: 28px;*/
+	position: absolute;
+	left: 15px;
 }
 .center::after {
 	content: "}";
+	position: absolute;
+	right: calc(15px + 28px);
+}
+.suit-row:not(:last-child)::after {
+	content: ",";
+	display: inline-block;
+	width: 0;
 }
 .center::before,
 .center::after {
 	font-size: 40pt;
+	width: 0;
+	height: 0;
+	line-height: 0;
 	/*opacity: 0.5;*/
 }
 
