@@ -13,6 +13,11 @@ render_$card = ({back, suit, suit_name, rank, rank_name, value})->
 	else
 		$card.addClass(suit_name)
 		$card.addClass(rank_name)
+		if rank_name in ["jack", "queen", "king"]
+			$card.addClass("face-card")
+		
+		# $card.data({suit, suit_name, rank, rank_name, value})
+		$card.attr("data-suit", suit)
 		
 		$card.html """
 			<div class='header'>
