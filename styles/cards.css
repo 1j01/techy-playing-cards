@@ -59,32 +59,19 @@
 .bottom.header {
 	transform: rotate(0.5turn);
 }
-/*.face-card .header::after {
-	content: "";
-	position: absolute;
-	left: 0;
-	right: 0;
-	top: 0;
-	bottom: 0;
-	background: currentColor;
-	mix-blend-mode: difference;
-}*/
 .face-card .header {
 	background: currentColor;
 }
 .face-card .header * {
 	color: #212121;
+	position: absolute;
 }
-.face-card .header::after {
+.face-card .header::before {
 	content: "";
 	position: absolute;
-	/*left: 0;*/
-	/*right: 0;*/
 	width: 140px;
 	height: 140px;
 	background: currentColor;
-	mix-blend-mode: difference;
-	/* FIXME: blend mode makes for inconsistent coloration */
 	transform: rotate(-0.125turn);
 	/*transform-origin: bottom left;*/
 	transform-origin: center left;
