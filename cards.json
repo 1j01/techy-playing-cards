@@ -368,28 +368,28 @@
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": "JOKER",
-			"rank_name": "JOKER",
+			"rank_name": "joker",
 			"value": 0
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": "JOKER",
-			"rank_name": "JOKER",
+			"rank_name": "joker",
 			"value": 0
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": "JOKER",
-			"rank_name": "JOKER",
+			"rank_name": "joker",
 			"value": 0
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": "JOKER",
-			"rank_name": "JOKER",
+			"rank_name": "joker",
 			"value": 0
 		}
 	],
@@ -762,28 +762,28 @@
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": "JOKER",
-			"rank_name": "JOKER",
+			"rank_name": "joker",
 			"value": 0
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": "JOKER",
-			"rank_name": "JOKER",
+			"rank_name": "joker",
 			"value": 0
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": "JOKER",
-			"rank_name": "JOKER",
+			"rank_name": "joker",
 			"value": 0
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": "JOKER",
-			"rank_name": "JOKER",
+			"rank_name": "joker",
 			"value": 0
 		}
 	],
@@ -1156,28 +1156,28 @@
 			"suit": "♣️",
 			"suit_name": "club",
 			"rank": "JOKER",
-			"rank_name": "JOKER",
+			"rank_name": "joker",
 			"value": 0
 		},
 		{
 			"suit": "♦️",
 			"suit_name": "diamond",
 			"rank": "JOKER",
-			"rank_name": "JOKER",
+			"rank_name": "joker",
 			"value": 0
 		},
 		{
 			"suit": "♥️",
 			"suit_name": "heart",
 			"rank": "JOKER",
-			"rank_name": "JOKER",
+			"rank_name": "joker",
 			"value": 0
 		},
 		{
 			"suit": "♠️",
 			"suit_name": "spade",
 			"rank": "JOKER",
-			"rank_name": "JOKER",
+			"rank_name": "joker",
 			"value": 0
 		}
 	]

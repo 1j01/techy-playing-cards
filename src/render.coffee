@@ -12,8 +12,7 @@ render_$card = ({back, suit, suit_name, rank, rank_name, value})->
 		# $card.html("<div class='center'>")
 	else
 		$card.addClass(suit_name)
-		if rank_name in ["ace", "jack", "queen", "king"]
-			$card.addClass(rank_name)
+		$card.addClass(rank_name)
 		
 		$card.html """
 			<div class='header'>

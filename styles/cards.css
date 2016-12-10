@@ -66,6 +66,7 @@
 	align-items: center;
 	align-content: center;
 	align-self: center;
+	position: relative;
 	
 	font-family: monospace;
 }
@@ -74,12 +75,12 @@
 	/*position: relative;*/
 	/*right: 28px;*/
 	position: absolute;
-	left: 15px;
+	right: calc(130% + 28px);
 }
 .center::after {
 	content: "}";
 	position: absolute;
-	right: calc(15px + 28px);
+	left: 130%;
 }
 .suit-row:not(:last-child)::after {
 	content: ",";

@@ -22,7 +22,7 @@ for variation in ["monochrome", "duochrome", "quadrichrome"]
 	for suit, suit_i in suits
 		card_set.push({
 			suit, suit_name: suit_names[suit_i]
-			rank: 'JOKER', rank_name: 'JOKER'
+			rank: 'JOKER', rank_name: 'joker'
 			value: 0
 		})
 	
