@@ -1,0 +1,47 @@
+
+after = (ms, fn)-> setTimeout(fn, ms)
+every = (ms, fn)-> setInterval(fn, ms)
+
+$cards = $("<main class='cards'/>").appendTo("body")
+
+render_$card = ({back, suit, suit_name, rank, rank_name, value})->
+	$card = $("<div class='card'/>")
+	
+	if back
+		$card.addClass("back")
+		# $card.html("<div class='center'>")
+	else
+		$card.addClass(suit_name)
+		if rank_name in ["ace", "jack", "queen", "king"]
+			$card.addClass(rank_name)
+		
+		$card.html """
+			<div class='header'>
+				<span class='name'>#{suit} #{rank}</span>
+			</div>
+			<div class='center'>
+				#{(suit for [0...value]).join(", ")}
+			</div>
+			<div class='header bottom'>
+				<span class='name'>#{suit} #{rank}</span>
+			</div>
+		"""
+	
+	$card
+
+$.getJSON "cards.json", (card_sets)->
+	
+	export_only = location.hash.replace /#/, ""
+	
+	for set_name, cards of card_sets when (not export_only) or export_only is set_name
+		$section = $("<section>").appendTo($cards)
+		$section.addClass(set_name)
+		$("<h2>").text(set_name).appendTo($section)
+		for card in cards
+			render_$card(card).appendTo($section)
+		if export_only
+			render_$card(back: yes).appendTo($section) for [cards.length...10*7]
+	
+	if (not export_only) or export_only is "Back"
+		$("<h2>").text("Back").appendTo($cards)
+		render_$card(back: yes).appendTo($cards)

@@ -1,0 +1,1184 @@
+{
+	"monochrome": [
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": "A",
+			"rank_name": "ace",
+			"value": 1
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 2,
+			"rank_name": 2,
+			"value": 2
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 3,
+			"rank_name": 3,
+			"value": 3
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 4,
+			"rank_name": 4,
+			"value": 4
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 5,
+			"rank_name": 5,
+			"value": 5
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 6,
+			"rank_name": 6,
+			"value": 6
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 7,
+			"rank_name": 7,
+			"value": 7
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 8,
+			"rank_name": 8,
+			"value": 8
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 9,
+			"rank_name": 9,
+			"value": 9
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 10,
+			"rank_name": 10,
+			"value": 10
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": "J",
+			"rank_name": "jack",
+			"value": 11
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": "Q",
+			"rank_name": "queen",
+			"value": 12
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": "K",
+			"rank_name": "king",
+			"value": 13
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": "A",
+			"rank_name": "ace",
+			"value": 1
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 2,
+			"rank_name": 2,
+			"value": 2
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 3,
+			"rank_name": 3,
+			"value": 3
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 4,
+			"rank_name": 4,
+			"value": 4
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 5,
+			"rank_name": 5,
+			"value": 5
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 6,
+			"rank_name": 6,
+			"value": 6
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 7,
+			"rank_name": 7,
+			"value": 7
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 8,
+			"rank_name": 8,
+			"value": 8
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 9,
+			"rank_name": 9,
+			"value": 9
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 10,
+			"rank_name": 10,
+			"value": 10
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": "J",
+			"rank_name": "jack",
+			"value": 11
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": "Q",
+			"rank_name": "queen",
+			"value": 12
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": "K",
+			"rank_name": "king",
+			"value": 13
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": "A",
+			"rank_name": "ace",
+			"value": 1
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 2,
+			"rank_name": 2,
+			"value": 2
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 3,
+			"rank_name": 3,
+			"value": 3
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 4,
+			"rank_name": 4,
+			"value": 4
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 5,
+			"rank_name": 5,
+			"value": 5
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 6,
+			"rank_name": 6,
+			"value": 6
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 7,
+			"rank_name": 7,
+			"value": 7
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 8,
+			"rank_name": 8,
+			"value": 8
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 9,
+			"rank_name": 9,
+			"value": 9
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 10,
+			"rank_name": 10,
+			"value": 10
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": "J",
+			"rank_name": "jack",
+			"value": 11
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": "Q",
+			"rank_name": "queen",
+			"value": 12
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": "K",
+			"rank_name": "king",
+			"value": 13
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": "A",
+			"rank_name": "ace",
+			"value": 1
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 2,
+			"rank_name": 2,
+			"value": 2
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 3,
+			"rank_name": 3,
+			"value": 3
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 4,
+			"rank_name": 4,
+			"value": 4
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 5,
+			"rank_name": 5,
+			"value": 5
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 6,
+			"rank_name": 6,
+			"value": 6
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 7,
+			"rank_name": 7,
+			"value": 7
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 8,
+			"rank_name": 8,
+			"value": 8
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 9,
+			"rank_name": 9,
+			"value": 9
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 10,
+			"rank_name": 10,
+			"value": 10
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": "J",
+			"rank_name": "jack",
+			"value": 11
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": "Q",
+			"rank_name": "queen",
+			"value": 12
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": "K",
+			"rank_name": "king",
+			"value": 13
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": "JOKER",
+			"rank_name": "JOKER",
+			"value": 0
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": "JOKER",
+			"rank_name": "JOKER",
+			"value": 0
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": "JOKER",
+			"rank_name": "JOKER",
+			"value": 0
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": "JOKER",
+			"rank_name": "JOKER",
+			"value": 0
+		}
+	],
+	"duochrome": [
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": "A",
+			"rank_name": "ace",
+			"value": 1
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 2,
+			"rank_name": 2,
+			"value": 2
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 3,
+			"rank_name": 3,
+			"value": 3
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 4,
+			"rank_name": 4,
+			"value": 4
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 5,
+			"rank_name": 5,
+			"value": 5
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 6,
+			"rank_name": 6,
+			"value": 6
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 7,
+			"rank_name": 7,
+			"value": 7
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 8,
+			"rank_name": 8,
+			"value": 8
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 9,
+			"rank_name": 9,
+			"value": 9
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 10,
+			"rank_name": 10,
+			"value": 10
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": "J",
+			"rank_name": "jack",
+			"value": 11
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": "Q",
+			"rank_name": "queen",
+			"value": 12
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": "K",
+			"rank_name": "king",
+			"value": 13
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": "A",
+			"rank_name": "ace",
+			"value": 1
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 2,
+			"rank_name": 2,
+			"value": 2
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 3,
+			"rank_name": 3,
+			"value": 3
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 4,
+			"rank_name": 4,
+			"value": 4
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 5,
+			"rank_name": 5,
+			"value": 5
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 6,
+			"rank_name": 6,
+			"value": 6
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 7,
+			"rank_name": 7,
+			"value": 7
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 8,
+			"rank_name": 8,
+			"value": 8
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 9,
+			"rank_name": 9,
+			"value": 9
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 10,
+			"rank_name": 10,
+			"value": 10
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": "J",
+			"rank_name": "jack",
+			"value": 11
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": "Q",
+			"rank_name": "queen",
+			"value": 12
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": "K",
+			"rank_name": "king",
+			"value": 13
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": "A",
+			"rank_name": "ace",
+			"value": 1
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 2,
+			"rank_name": 2,
+			"value": 2
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 3,
+			"rank_name": 3,
+			"value": 3
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 4,
+			"rank_name": 4,
+			"value": 4
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 5,
+			"rank_name": 5,
+			"value": 5
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 6,
+			"rank_name": 6,
+			"value": 6
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 7,
+			"rank_name": 7,
+			"value": 7
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 8,
+			"rank_name": 8,
+			"value": 8
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 9,
+			"rank_name": 9,
+			"value": 9
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 10,
+			"rank_name": 10,
+			"value": 10
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": "J",
+			"rank_name": "jack",
+			"value": 11
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": "Q",
+			"rank_name": "queen",
+			"value": 12
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": "K",
+			"rank_name": "king",
+			"value": 13
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": "A",
+			"rank_name": "ace",
+			"value": 1
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 2,
+			"rank_name": 2,
+			"value": 2
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 3,
+			"rank_name": 3,
+			"value": 3
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 4,
+			"rank_name": 4,
+			"value": 4
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 5,
+			"rank_name": 5,
+			"value": 5
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 6,
+			"rank_name": 6,
+			"value": 6
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 7,
+			"rank_name": 7,
+			"value": 7
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 8,
+			"rank_name": 8,
+			"value": 8
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 9,
+			"rank_name": 9,
+			"value": 9
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 10,
+			"rank_name": 10,
+			"value": 10
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": "J",
+			"rank_name": "jack",
+			"value": 11
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": "Q",
+			"rank_name": "queen",
+			"value": 12
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": "K",
+			"rank_name": "king",
+			"value": 13
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": "JOKER",
+			"rank_name": "JOKER",
+			"value": 0
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": "JOKER",
+			"rank_name": "JOKER",
+			"value": 0
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": "JOKER",
+			"rank_name": "JOKER",
+			"value": 0
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": "JOKER",
+			"rank_name": "JOKER",
+			"value": 0
+		}
+	],
+	"quadrichrome": [
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": "A",
+			"rank_name": "ace",
+			"value": 1
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 2,
+			"rank_name": 2,
+			"value": 2
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 3,
+			"rank_name": 3,
+			"value": 3
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 4,
+			"rank_name": 4,
+			"value": 4
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 5,
+			"rank_name": 5,
+			"value": 5
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 6,
+			"rank_name": 6,
+			"value": 6
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 7,
+			"rank_name": 7,
+			"value": 7
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 8,
+			"rank_name": 8,
+			"value": 8
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 9,
+			"rank_name": 9,
+			"value": 9
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": 10,
+			"rank_name": 10,
+			"value": 10
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": "J",
+			"rank_name": "jack",
+			"value": 11
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": "Q",
+			"rank_name": "queen",
+			"value": 12
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": "K",
+			"rank_name": "king",
+			"value": 13
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": "A",
+			"rank_name": "ace",
+			"value": 1
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 2,
+			"rank_name": 2,
+			"value": 2
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 3,
+			"rank_name": 3,
+			"value": 3
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 4,
+			"rank_name": 4,
+			"value": 4
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 5,
+			"rank_name": 5,
+			"value": 5
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 6,
+			"rank_name": 6,
+			"value": 6
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 7,
+			"rank_name": 7,
+			"value": 7
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 8,
+			"rank_name": 8,
+			"value": 8
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 9,
+			"rank_name": 9,
+			"value": 9
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": 10,
+			"rank_name": 10,
+			"value": 10
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": "J",
+			"rank_name": "jack",
+			"value": 11
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": "Q",
+			"rank_name": "queen",
+			"value": 12
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": "K",
+			"rank_name": "king",
+			"value": 13
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": "A",
+			"rank_name": "ace",
+			"value": 1
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 2,
+			"rank_name": 2,
+			"value": 2
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 3,
+			"rank_name": 3,
+			"value": 3
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 4,
+			"rank_name": 4,
+			"value": 4
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 5,
+			"rank_name": 5,
+			"value": 5
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 6,
+			"rank_name": 6,
+			"value": 6
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 7,
+			"rank_name": 7,
+			"value": 7
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 8,
+			"rank_name": 8,
+			"value": 8
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 9,
+			"rank_name": 9,
+			"value": 9
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": 10,
+			"rank_name": 10,
+			"value": 10
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": "J",
+			"rank_name": "jack",
+			"value": 11
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": "Q",
+			"rank_name": "queen",
+			"value": 12
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": "K",
+			"rank_name": "king",
+			"value": 13
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": "A",
+			"rank_name": "ace",
+			"value": 1
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 2,
+			"rank_name": 2,
+			"value": 2
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 3,
+			"rank_name": 3,
+			"value": 3
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 4,
+			"rank_name": 4,
+			"value": 4
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 5,
+			"rank_name": 5,
+			"value": 5
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 6,
+			"rank_name": 6,
+			"value": 6
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 7,
+			"rank_name": 7,
+			"value": 7
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 8,
+			"rank_name": 8,
+			"value": 8
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 9,
+			"rank_name": 9,
+			"value": 9
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": 10,
+			"rank_name": 10,
+			"value": 10
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": "J",
+			"rank_name": "jack",
+			"value": 11
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": "Q",
+			"rank_name": "queen",
+			"value": 12
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": "K",
+			"rank_name": "king",
+			"value": 13
+		},
+		{
+			"suit": "♣️",
+			"suit_name": "club",
+			"rank": "JOKER",
+			"rank_name": "JOKER",
+			"value": 0
+		},
+		{
+			"suit": "♦️",
+			"suit_name": "diamond",
+			"rank": "JOKER",
+			"rank_name": "JOKER",
+			"value": 0
+		},
+		{
+			"suit": "♥️",
+			"suit_name": "heart",
+			"rank": "JOKER",
+			"rank_name": "JOKER",
+			"value": 0
+		},
+		{
+			"suit": "♠️",
+			"suit_name": "spade",
+			"rank": "JOKER",
+			"rank_name": "JOKER",
+			"value": 0
+		}
+	]
+}

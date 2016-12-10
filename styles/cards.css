@@ -1,0 +1,95 @@
+
+.card {
+	position: relative;
+	/*width: 2.5in;
+	height: 3.5in;*/
+	width: 240px;
+	height: 336px;
+	box-sizing: border-box;
+	display: inline-flex;
+	flex-direction: column;
+	text-align: left;
+	font-size: 20pt;
+	/* TODO: look at fonts and pick one  */
+	font-family: 'Bitstream Charter', 'URW Palladio L', Palatino, 'Palatino Linotype', 'Hoefler Text', Georgia, 'Book Antiqua', Times, 'Times New Roman', serif;
+	border-radius: 0.1in;
+	/*border: 0.1in solid white;*/
+	border: 5px solid white;
+	background-color: #111;
+	color: white;
+}
+.card.back {
+	/* FIXME: asymmetrical */
+	background: repeating-linear-gradient(
+		45deg,
+		/*to bottom,*/
+		rgba(0, 0, 0, 0.2),
+		rgba(0, 0, 0, 0.2) 10px,
+		rgba(0, 0, 0, 0.5) 10px,
+		rgba(0, 0, 0, 0.5) 20px
+		/*rgba(0, 0, 0, 0.2) 0.1in,
+		rgba(0, 0, 0, 0.5) 0.1in,
+		rgba(0, 0, 0, 0.5) 0.2in*/
+	);
+	background-color: #333;
+}
+
+.duochrome .heart,
+.duochrome .diamond {
+	color: #ff2e2c;
+}
+.quadrichrome .heart {
+	color: #ff2e2c;
+}
+.quadrichrome .diamond {
+	color: #2196F3;
+}
+.quadrichrome .club {
+	color: #4caf50;
+}
+.quadrichrome .spade {
+	color: #eeeeee;
+}
+
+.header {
+	padding: 3mm;
+}
+.bottom.header {
+	transform: rotate(0.5turn);
+}
+
+.center {
+	flex: 1;
+	
+	/* TODO: have suits lined up in neat rows and (where possible) columns */
+	/* TODO: clean up */
+	width: 70%;
+	min-width: 0%;
+	display: flex;
+	overflow: hidden;
+	flex-wrap: wrap;
+	word-wrap: break-word;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	align-self: center;
+	text-align: center;
+	
+	font-family: monospace;
+}
+.center::before {
+	content: "{";
+}
+.center::after {
+	content: "}";
+}
+.center::before,
+.center::after {
+	font-size: 40pt;
+	/*opacity: 0.5;*/
+}
+
+.ace .center {
+	font-size: 60pt;
+}
+
