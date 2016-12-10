@@ -16,7 +16,7 @@
 	border-radius: 0.1in;
 	/*border: 0.1in solid white;*/
 	border: 5px solid white;
-	background-color: #111;
+	background-color: #212121;
 	color: white;
 }
 .card.back {
@@ -36,11 +36,9 @@
 }
 
 .duochrome .heart,
-.duochrome .diamond {
-	color: #ff2e2c;
-}
+.duochrome .diamond,
 .quadrichrome .heart {
-	color: #ff2e2c;
+	color: #f44336;
 }
 .quadrichrome .diamond {
 	color: #2196F3;
