@@ -1,10 +1,8 @@
 
 .card {
 	position: relative;
-	/*width: 2.5in;
-	height: 3.5in;*/
-	width: 240px;
-	height: 336px;
+	width: 240px; /* 2.5in */
+	height: 336px; /* 3.5in */
 	box-sizing: border-box;
 	display: inline-flex;
 	flex-direction: column;
@@ -12,10 +10,8 @@
 	text-align: left;
 	font-size: 20pt;
 	/* TODO: look at fonts and pick one  */
-	/*font-family: 'Bitstream Charter', 'URW Palladio L', Palatino, 'Palatino Linotype', 'Hoefler Text', Georgia, 'Book Antiqua', Times, 'Times New Roman', serif;*/
 	font-family: monospace;
 	border-radius: 0.1in;
-	/*border: 0.1in solid white;*/
 	border: 5px solid white;
 	background-color: #212121;
 	color: white;
@@ -24,14 +20,10 @@
 	/* FIXME: asymmetrical */
 	background: repeating-linear-gradient(
 		45deg,
-		/*to bottom,*/
 		rgba(0, 0, 0, 0.2),
 		rgba(0, 0, 0, 0.2) 10px,
 		rgba(0, 0, 0, 0.5) 10px,
 		rgba(0, 0, 0, 0.5) 20px
-		/*rgba(0, 0, 0, 0.2) 0.1in,
-		rgba(0, 0, 0, 0.5) 0.1in,
-		rgba(0, 0, 0, 0.5) 0.2in*/
 	);
 	background-color: #333;
 }
@@ -72,17 +64,12 @@
 	width: 140px;
 	height: 140px;
 	background: currentColor;
-	transform: rotate(-0.125turn);
-	/*transform-origin: bottom left;*/
-	transform-origin: center left;
+	transform: translate(-50%, -50%) translate(-10px, 0) rotate(-0.125turn);
 	transform-origin: center center;
-	left: -70px;
-	top: -70px;
 }
 
 .center {
 	flex: 1;
-	
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -90,13 +77,9 @@
 	align-content: center;
 	align-self: center;
 	position: relative;
-	
-	font-family: monospace;
 }
 .center::before {
 	content: "{";
-	/*position: relative;*/
-	/*right: 28px;*/
 	position: absolute;
 	right: calc(130% + 28px);
 }
@@ -105,7 +88,7 @@
 	position: absolute;
 	left: 130%;
 }
-.suit-row:not(:last-child)::after {
+.pip-row:not(:last-child)::after {
 	content: ",";
 	display: inline-block;
 	width: 0;
@@ -116,7 +99,6 @@
 	width: 0;
 	height: 0;
 	line-height: 0;
-	/*opacity: 0.5;*/
 }
 
 .ace .center {

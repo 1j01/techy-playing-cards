@@ -16,9 +16,6 @@ render_$card = ({back, suit, suit_name, rank, rank_name, value})->
 		if rank_name in ["jack", "queen", "king"]
 			$card.addClass("face-card")
 		
-		# $card.data({suit, suit_name, rank, rank_name, value})
-		$card.attr("data-suit", suit)
-		
 		$card.html """
 			<div class='header'>
 				<span class='name'>#{suit} #{rank}</span>
@@ -35,8 +32,6 @@ render_$card = ({back, suit, suit_name, rank, rank_name, value})->
 				break
 		if div is 1
 			div = 3
-		# console.log value, div
-		# for i in [1..div]
 		added = 0
 		while added < value
 			if added + div > value
@@ -45,12 +40,8 @@ render_$card = ({back, suit, suit_name, rank, rank_name, value})->
 			else
 				n = div
 			added += div
-			# rows.push((suit for [1..n]).join(", "))
-			# rows.push((suit for [1..n]).join(", ") + if added is value then "" else ", ")
 			row = (suit for [1..n]).join(", ")
-			$card.find(".center").prepend($("<div class='suit-row'>").text(row))
-		# for row in rows
-		# 	$card.find(".center").append($("<div>").text(row))
+			$card.find(".center").prepend($("<div class='pip-row'>").text(row))
 	
 	$card
 
