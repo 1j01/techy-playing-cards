@@ -9,10 +9,10 @@ cgg = new CardGameGenerator {cardSets}
 console.log "render cards"
 cgg.renderCards
 	page: "index.html"
-	cardWidth: 240 + 5 * 2
-	cardHeight: 336 + 5 * 2
+	cardWidth: 240
+	cardHeight: 336
 	scale: 2
-	debug: on
+	debug: off
 	to: "export/images/"
 	(err)->
 		throw err if err
@@ -20,8 +20,8 @@ cgg.renderCards
 		cgg.exportTabletopSimulatorSave
 			to: "export/"
 			saveName: "Techy Playing Cards"
-			imagesURL: "https://raw.githubusercontent.com/1j01/techy-playing-cards/gh-pages/images"
-			renderedImagesURL: "https://raw.githubusercontent.com/1j01/techy-playing-cards/gh-pages/images/export"
+			imagesURL: "https://raw.githubusercontent.com/1j01/techy-playing-cards/master/images"
+			renderedImagesURL: "https://raw.githubusercontent.com/1j01/techy-playing-cards/master/images/export"
 			(err)->
 				throw err if err
 				console.log "export save to Tabletop Simulator's Chest"
