@@ -20,8 +20,7 @@ cgg.renderCards
 		cgg.exportTabletopSimulatorSave
 			to: "export/"
 			saveName: "Techy Playing Cards"
-			imagesURL: "https://raw.githubusercontent.com/1j01/techy-playing-cards/master/images"
-			renderedImagesURL: "https://raw.githubusercontent.com/1j01/techy-playing-cards/master/images/export"
+			renderedImagesURL: "https://raw.githubusercontent.com/1j01/techy-playing-cards/master/export/images"
 			(err)->
 				throw err if err
 				console.log "export save to Tabletop Simulator's Chest"
