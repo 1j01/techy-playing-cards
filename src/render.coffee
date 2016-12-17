@@ -16,13 +16,14 @@ render_$card = ({back, suit, suit_name, rank, rank_name, value})->
 		if rank_name in ["jack", "queen", "king"]
 			$card.addClass("face-card")
 		
+		identification_html = "<div class='id'><div class='rank'>#{rank}</div><div class='suit'>#{suit}</div></div>"
 		$card.html """
 			<div class='header'>
-				<span class='name'>#{suit} #{rank}</span>
+				#{identification_html}
 			</div>
 			<div class='center'></div>
 			<div class='header bottom'>
-				<span class='name'>#{suit} #{rank}</span>
+				#{identification_html}
 			</div>
 		"""
 		
