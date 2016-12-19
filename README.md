@@ -22,7 +22,7 @@ Then in Tabletop Simulator, go to **Host > Chest > Saved Objects** and find **Te
 `npm run export` will render the cards and export to Tabletop Simulator's Chest.
 
 You can `set PARALLEL_EXPORT=ON` before running `export` to speed it up significantly if it's on a powerful enough machine,
-bf it's not powerful enough it might freeze up the entire computer.
+but if it's not powerful enough it might freeze up the entire computer.
 
 
 [Techy Playing Cards]: http://1j01.github.io/techy-playing-cards/
