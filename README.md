@@ -14,7 +14,7 @@ Then in Tabletop Simulator, go to Host > Chest > Saved Objects and find Techy Pl
 ## Installation
 
 * [Clone the repo][Cloning a repository]
-* Install [Node.js][] if you don't have (a somewhat recent version of) it
+* Install [Node.js][] if you don't have a somewhat recent version
 * Open a console in the project directory
 * Run `npm install`
 
@@ -25,7 +25,7 @@ Then in Tabletop Simulator, go to Host > Chest > Saved Objects and find Techy Pl
 * `npm run export-to-tabletop-simulator`
 
 You can `set PARALLEL_EXPORT=ON` before running `export` to speed it up significantly if it's on a powerful enough machine.
-(If it's not powerful enough it might freeze up the entire computer.)
+If it's not powerful enough it might freeze up the entire computer.
 
 
 [Techy Playing Cards]: http://1j01.github.io/techy-playing-cards/
