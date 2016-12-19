@@ -29,7 +29,7 @@ If it's not powerful enough it might freeze up the entire computer.
 
 
 [Techy Playing Cards]: http://1j01.github.io/techy-playing-cards/
-[Techy Playing Cards.json]: https://raw.githubusercontent.com/1j01/techy-playing-cards/gh-pages/data/export/Techy%20Playing%20Cards.json
+[Techy Playing Cards.json]: https://raw.githubusercontent.com/1j01/techy-playing-cards/master/export/Techy%20Playing%20Cards.json
 [Node.js]: https://nodejs.org/en/
 [Tabletop Simulator]: http://store.steampowered.com/app/286160/
 [Card Game Generator]: https://github.com/1j01/card-game-generator
