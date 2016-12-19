@@ -8,7 +8,7 @@ Without installing, you can save [Techy Playing Cards.json][] to `%USERPROFILE%\
 
 <!-- If installed, you can just `npm run export-to-tabletop-simulator` -->
 
-In Tabletop Simulator, go to Host > Chest > Saved Objects and find Card Game.
+Then in Tabletop Simulator, go to Host > Chest > Saved Objects and find Techy Playing Cards.
 
 
 ## Installation
