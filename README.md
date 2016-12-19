@@ -1,20 +1,22 @@
 # [Techy Playing Cards][]
 
-## Installation
-
-* Clone the repo
-* Have [Node.js][]
-* Open a console in the project directory 
-* `npm i`
-
+A simple set of playing cards made with [Card Game Generator][]
 
 ## Import into [Tabletop Simulator][]
 
 Without installing, you can save [Techy Playing Cards.json][] to `%USERPROFILE%\Documents\My Games\Tabletop Simulator\Saves\Chest\`
 
-If installed, you can just `npm run export-to-tabletop-simulator`
+<!-- If installed, you can just `npm run export-to-tabletop-simulator` -->
 
 In Tabletop Simulator, go to Host > Chest > Saved Objects and find Card Game.
+
+
+## Installation
+
+* [Clone the repo][Cloning a repository]
+* Install [Node.js][] if you don't have (a somewhat recent version of) it
+* Open a console in the project directory
+* Run `npm install`
 
 
 ## Update cards
@@ -30,3 +32,5 @@ You can `set PARALLEL_EXPORT=ON` before running `export` to speed it up signific
 [Techy Playing Cards.json]: https://raw.githubusercontent.com/1j01/techy-playing-cards/gh-pages/data/export/Techy%20Playing%20Cards.json
 [Node.js]: https://nodejs.org/en/
 [Tabletop Simulator]: http://store.steampowered.com/app/286160/
+[Card Game Generator]: https://github.com/1j01/card-game-generator
+[Cloning a repository]: https://help.github.com/articles/cloning-a-repository/
