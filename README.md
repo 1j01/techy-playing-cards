@@ -2,6 +2,8 @@
 
 A simple set of playing cards made with [Card Game Generator][]
 
+![](export/images/quadrichrome.png)
+
 ## Import into [Tabletop Simulator][]
 
 Without installing, you can save [`Techy Playing Cards.json`][] to `%USERPROFILE%\Documents\My Games\Tabletop Simulator\Saves\Chest\`
