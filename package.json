@@ -14,10 +14,8 @@
     "generate": "coffee src/generate.coffee",
     "export": "coffee src/export.coffee"
   },
-  "devDependencies": {
-    "coffee-script": "^1.10.0"
-  },
   "dependencies": {
-    "card-game-generator": "^0.8.0"
+    "card-game-generator": "^0.8.0",
+    "coffeescript": "^2.5.1"
   }
 }
